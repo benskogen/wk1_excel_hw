@@ -1,0 +1,28 @@
+Kickstarting with Excel
+
+## Overview of Project
+This first project is the introduction to the course.  It involves the opportunity to gain knowledge of the layout of the course, meet the instruction team and classmates, and launch things off with a basic and intermediate approach to techniques in Microsoft Excel.  While the purpose of this project is to demonstrate our proficiency with the Microsoft Excel assignment, it is also an introduction to command prompt (terminal/Gitbash), Github, Gitlab, and the innerworkings of these three via creating and cloning repositories and pulling and pushing files to/from our computer to the cloud.
+
+### Purpose
+The purpose of this project is to kickstart the course with techniques via Microsoft Excel.  Utilizing the Kickstarter excel data provided, we started things off by following instructions to add columns, sort and manipulate the data to prepare and create pivot tables and their accompanying charts, as means to better understand and make inferences upon the data.  It is an introduction to data analysis with real life examples.  Through the modules, we were encouraged to mess around with filters on the raw data, pivot tables, and graphical charts to give us better sight over analyzing data.  Along with sorting and organizing data, we were provided with some formulas such as VLOOKUP() and COUNTIF() aid in this process.
+
+## Analysis and Challenges
+The first assignment involves drawing inferences upon the data in Microsoft Excel and providing conclusions on our analysis of the data.  The details of my conclusions and challenges faced are described below.
+
+### Analysis of Outcomes Based on Launch Date
+The first conclusion that can be drawn on from the Outcomes Based on Launch Date is that of the 4064 campaigns in all countries for all categories, just over 53.76% of the campaigns were successful.  Sorted by total outcome count, the data for the outcomes of the Kickstarter campaigns is displayed below, first showing outcomes for all parent categories, then by outcome for theater alone, and lastly, for all categories minus technology.
+
+A second conclusion, made more visibly apparent by the line graphs, is that the 2-month period of May-June contained the most successful campaigns.  This is true when looking at the data with all outcomes included, with the biggest impact coming from the theater category.
+
+### Limitations and other possible tables or graphs
+It could be said that one limitation of the viewing the dataset as presented in the line graph for total outcomes based on launch date, is that it is easy to visualize the successful campaigns vs. failed campaigns lines, whereas it may be more telling to combine the failed and cancelled campaigns together into own subcategory, which I would title “unsuccessful campaigns”.  This would bring the gap between successful and unsuccessful campaigns closer together, providing a different visualization to make inferences upon, given that an explanation on the combined columns is provided.
+
+
+### Analysis of Outcomes Based on Goals
+One conclusion based on the Outcomes based on Goals, is that the very successful subcategory “Plays” didn’t have a single cancelled campaign.  While theater was already a very successful category, we can infer that Plays is likely the most successful category of them all.  I would come to Kickstarter if I wanted a play funded, as those who use Kickstarter are largely in favor of funding plays.
+
+
+### Challenges and Difficulties Encountered
+The first challenges that I encountered involved the differences between Excel on PC, and Excel on Mac.  I recently bought a mac for my personal computer and am getting used to the differences.  I am very accustomed to my ALT shortcut keys that I have used to sort and scrub data from years of working on a PC at work.  I have been unable to replicate those shortcut keys, even after adding them to my quick access toolbar.  I also had some trouble getting the “Years” filter for “Outcomes based on launch date” to break down into “months” for the row label, but after a handful of attempts and carefully review the instructions, I was able to make it happen.
+Beyond the Excel module, I had some trouble with the Terminal/Git commands, and understanding how the repositories work, such as git clone, push, and pull.  After reviewing the office hour and class recordings, I was able to gain a much better understanding.  It may not be 100% clear to me, but I am feeling much more confident about it.  One thing I still don’t understand is why I was unable to get the “gitingnore” doc to clone over to my repository, so hopefully I can again some clarity on why that is.
+Another challenge is that I am in Hawaii right now, on a family trip.  It is making it difficult to complete everything to the best of my ability, one reason being that I am working solely on my laptop display.  I was unable to join in on the last two office hours and haven’t had wi-fi for a majority of the trip.  I have to “cheat” on my homework upload, as I ran out of time, and wasn’t able to complete the entire “Outcomes Based on Goals” portion of the assignment. If possible, I might ask for a revision on the week 1 homework as I think I have misunderstood the format of this analysis, as well as due to only partially completing this portion.
